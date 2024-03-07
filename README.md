@@ -1,4 +1,4 @@
-# Dev Talent
+# <img width="48" height="48" src="https://img.icons8.com/emoji/48/rocket-emji.png" alt="rocket"/> Dev Talent
 
 A website was created for a fictitious HR consulting company called: devTalent.
 
@@ -28,7 +28,7 @@ This "fake" recruiting agency specialized in sourcing IT profiles, gave me the t
 
 ---
 
-## Technologies
+## <img width="48" height="48" src="https://img.icons8.com/fluency/48/workstation.png" alt="workstation"/> Technologies
 
 📝 [**Astro**](https://astro.build/) -> As main framework
 
@@ -47,7 +47,7 @@ This "fake" recruiting agency specialized in sourcing IT profiles, gave me the t
 
 ---
 
-## 🚀 Project structure 
+## <img width="48" height="48" src="https://img.icons8.com/color/48/folder-tree.png" alt="folder tree"/> Project structure 
 
 Inside of your Astro project, you'll see the following folders and files:
 
@@ -73,7 +73,7 @@ Any static assets, like images, can be placed in the public/ directory.
 
 ---
 
-## 🧞 Comamands
+## <img width="48" height="48" src="https://img.icons8.com/color/48/command-line.png" alt="command line"/> Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -90,4 +90,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## How the project was created?
 
-`npm create astro@latest`
+With `npm create astro@latest`.
+
+In order to run the project locally:
+
+1. Clone this repository
+
+2. Run `npm install` to install the dependencies/libraries (node modules)
+
+3. Run `npm run dev`
+
+---
