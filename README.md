@@ -100,4 +100,5 @@ In order to run the project locally:
 
 3. Run `npm run dev`
 
+4. Open the browser at: [http://localhost:4321/](http://localhost:4321/)
 ---
