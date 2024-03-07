@@ -2,7 +2,7 @@ import type { Links } from "../../types/link-type";
 
 export const linksData: Links[] = [
   {
-    title: "companies",
+    title: "Companies",
     path: "/"
   },
   {

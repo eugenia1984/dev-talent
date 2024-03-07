@@ -1,6 +1,6 @@
 ---
-import type { Links } from "../../types/link-type";
-const { title, path } = Astro.props as Links;
+import type { Link } from "../../types/link-type";
+const { title, path } = Astro.props as Link;
 ---
 
 <a href={path} class="hover:underline">
