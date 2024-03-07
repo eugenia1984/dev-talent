@@ -3,6 +3,10 @@ import type { Link } from "../../types/link-type";
 const { title, path } = Astro.props as Link;
 ---
 
-<a href={path} class="hover:underline">
+<a
+  href={path}
+  class="hover:underline hover:text-lime-400"
+  aria-label={`Go to ${title} page`}
+>
   {title}
 </a>

@@ -1,6 +1,6 @@
 ---
 import type { Link } from "../../types/link-type";
-import { linksData} from "../../data/layout/links";
+import { linksData } from "../../data/layout/links";
 import Links from "./Links.astro";
 ---
 
@@ -8,9 +8,13 @@ import Links from "./Links.astro";
   <div
     class="flex flex-col md:flex-row justify-between items-center md:items-start gap-5 border-y-[1px] border-blue-400 py-5"
   >
-    <span class="flex items-center gap-2 uppercase text-lg w-40">
+    <a
+      class="flex items-center gap-2 uppercase text-lg w-40 hover:underline hover:text-lime-400"
+      href="/"
+      aria-label="Go to home page"
+    >
       <img width={40} height={40} src="icons8-rocket-48.png" alt="rocket" /> Dev-Talent
-    </span>
+    </a>
     <nav
       class="flex flex-col md:flex-row justify-center md:items-start gap-3 w-72 px-3"
     >
