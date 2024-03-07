@@ -101,4 +101,7 @@ In order to run the project locally:
 3. Run `npm run dev`
 
 4. Open the browser at: [http://localhost:4321/](http://localhost:4321/)
+
+5. If you use VSC, you can add the extension [Astro of astro.build](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode)
+
 ---
