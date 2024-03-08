@@ -105,3 +105,10 @@ In order to run the project locally:
 5. If you use VSC, you can add the extension [Astro of astro.build](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode)
 
 ---
+
+
+## NOTE
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
+
+---
